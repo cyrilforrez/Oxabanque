@@ -1,0 +1,7 @@
+<?php
+
+require 'view/includes/head.php';
+require 'view/includes/header.php';
+require 'view/accueil.php';
+require 'view/includes/foot.php';
+require 'view/includes/footer.php';
