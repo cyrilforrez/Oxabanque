@@ -6,6 +6,11 @@
 <script>
   $('.table').stacktable();
 </script>
+<script>
+$('#myModal').on('shown.bs.modal', function () {
+$('#myInput').focus()
+})
+</script>
 </body>
 
 </html>
